@@ -10,7 +10,9 @@ About Me :shipit:
     ⚡ Current skills include PLC, HMI, and SCADA development
     
  ### 🔭 I am currently working on:
- #### a freight calculation program to make my daily work a little easier. So I am spending hours building something to shave off a few minutes off a task I perform a few times a week :trollface:
+ #### 1. A freight calculation program to make my daily work a little easier. So I am spending hours building something to shave off a few minutes off a task I perform a few times a week :trollface:
+ 
+ #### 2. A program that can be used to track the allocation and utilization of organization resources.
 
 
 <!--
